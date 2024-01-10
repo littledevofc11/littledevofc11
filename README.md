@@ -11,6 +11,8 @@
 <div style:"display: inline">
 <h1><strong>Focusing on:</strong></h1>
 <br>
+  <img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width=70 height=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
